@@ -17,3 +17,5 @@ function addPerson (firstName, lastName, birthdate) {
 }
 
 addPerson(input1, input2, input3);
+
+console.log("noice");
